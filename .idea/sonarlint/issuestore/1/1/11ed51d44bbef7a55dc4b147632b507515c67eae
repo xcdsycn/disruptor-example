@@ -1,0 +1,6 @@
+
+_squid:CallToDeprecatedMethod'"1Remove this use of "Disruptor"; it is deprecated.(ËÛÊ8°ù‡„õ,
+>squid:S2129;" Remove this "String" constructor(Âë‰à8Œ©íƒõ,
+nsquid:CommentedOutCodeLine1"<This block of commented-out lines of code should be removed.(òÁìïúÿÿÿÿ8ßÛãƒõ,
+Fsquid:S1148L"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¶«ýƒõ,
+dsquid:S2142K"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8¶«ýƒõ,
